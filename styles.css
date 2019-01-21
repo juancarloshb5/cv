@@ -1,0 +1,107 @@
+body{
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-content: center;
+    align-items: center;
+    background-color: #f4f9f4;
+    margin: 0;
+
+}
+
+footer {
+    text-align: center;
+    font-family: 'Segoe UI Light';
+    
+}
+#L1  {
+    border: none;
+    border-top: 10px dotted;
+    width: 200px;
+    border-color: #5c8d89;
+}
+h1  {
+    color: navy;
+    text-align: left;
+    font-family: 'Segoe UI Light';
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h2 {
+    font-family: 'Segoe UI Light';
+}
+h3  {
+    text-align: center;
+    font-family: 'Segoe UI Light';
+}
+
+h4{
+    color: #74b49b;
+}
+
+li {
+    font-family: 'Segoe UI Light';
+}
+div {
+    display: inline-block;
+    padding-right: 30px;
+}
+
+
+/*------------------ ID --------------*/
+#profile-img{
+
+    border-radius: 100%;
+    display: inline;
+    height: 200px;
+}
+
+#Tittle{
+    display: inline;
+    align-content: center;
+    color: #5c8d89;
+}
+
+#Header{
+    padding-left: 30px;
+    align-content: center;
+    display: block;
+    background-color: #a7d7c5;
+}
+
+#tabla_Titulo {
+    border-spacing: 30px; 
+}
+
+#a2{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+
+
+}
+
+.a2element {
+    float: left;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding-left: 120px;
+    padding-right: 120px;    
+   
+    
+
+}
+.fotoA2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+
+
